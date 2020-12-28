@@ -1,24 +1,31 @@
 # Deck-editor
 
-## Project setup
+Simple desktop (electron) card deck editor for a card game I'm making (still in progress... )
+
+
+## Setup
+
+If you want to install and use deck editor go to [releases tab](https://github.com/A640/Karta-project-editor/releases) and download instalator.
+
+**For development:**
+
+
+### Project setup
 ```
-npm install
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn electron:serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+yarn electron:build
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
