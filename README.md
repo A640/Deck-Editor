@@ -1,4 +1,4 @@
-# deck-creator
+# Deck-editor
 
 ## Project setup
 ```
